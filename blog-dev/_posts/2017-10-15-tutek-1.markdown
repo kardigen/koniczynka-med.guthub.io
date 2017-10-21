@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Nadciśnienie i choroby serca u boboasów"
+date:   2017-10-15 11:57:42
+
+
+excerpt: Oto jakiś opis
+---
+
+# Jakiś rozdział
+
+## Pod rozdział
+
+{:.R20}
+Tu mamy taki jakiś tekst
+
+{:.R20}
+a tu link (http://mp.pl)

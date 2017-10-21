@@ -1,0 +1,223 @@
+#custom-bootstrap-menu.navbar-default {
+	background-color: #f5faff;
+    -webkit-box-shadow: 0 4px 4px -2px #0088AA;;
+    -moz-box-shadow: 0 4px 4px -2px #0088AA;;
+    box-shadow: 0 4px 4px -2px #0088AA;;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: #505156;
+    cursor: pointer;
+    padding-left: 2vw;
+    font-family: 'Lato', sans-serif;
+	font-weight: 900;    
+    border-width: 0px;
+    border-radius: 0px;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a.selected {
+	color: #0088AA;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    /*color: rgba(133, 201, 239, 1);*/
+	color: #0088AA;
+    background-color: rgba(245, 250, 255, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: #0088AA;
+	/*color: rgba(133, 201, 239, 1);*/
+    /*color: rgba(83, 151, 215, 1);*/
+    /*background-color: rgba(245, 250, 255, 1);*/
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #f5faff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #f5faff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #85c9ef;
+}
+
+#custom-bootstrap-menu .navbar-brand-name {
+    font-family: 'Lato', sans-serif;
+	font-weight: 900;    
+    padding-top: 10px;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+
+#custom-bootstrap-menu .navbar-brand-box {
+    padding-top: 18px;
+}
+
+#mobile-symbol {
+	color: #0088AA;
+	font-size: 2em;
+	padding-bottom: 25px;
+	padding-top: 27px;
+	vertical-align: middle;	
+}
+
+#mobile-number {
+	padding-left: 15px;
+	color: #0088AA;
+	padding-right: 6vw;
+	vertical-align: middle;
+	font-size: 1.5em;
+}
+
+#custom-bootstrap-menu {	
+    color: #0088AA;
+}
+
+@media (min-width: 1200px) {
+	#custom-bootstrap-menu {	
+		height: 100px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand {
+		height: 100px;
+		padding-left: 30px;
+	}
+	
+	#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+		font-size: 20px;
+		padding-top: 38px;
+		padding-bottom: 35px;
+	}
+	
+	#mobile-symbol {
+		
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-box {
+		width: 500px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-desc {
+		font-size: 14px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-name {
+		font-size: 24px;
+	}
+		
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	#custom-bootstrap-menu {	
+		height: 90px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand {
+	    height: 90px;
+	    padding-left: 20px;
+	}
+	
+	#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+		font-size: 16px;
+		padding-top: 36px;
+		padding-bottom: 30px;
+	}
+	
+	#mobile-symbol {
+		
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-box {
+		width: 420px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-desc {
+		font-size: 12px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-name {
+		font-size: 22px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	#custom-bootstrap-menu {	
+		height: 80px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand {
+	    height: 80px;
+	    padding-left: 5px;
+	}
+	
+	#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+		font-size: 14px;
+		padding-top: 32px;
+		padding-bottom: 28px;
+	}
+	
+	#mobile-symbol {
+		
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-box {
+		width: 305px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-desc {
+		font-size: 10px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-name {
+		font-size: 20px;
+	}
+	
+	#mobile-number {
+		padding-right: 2vw;
+	}
+}
+
+@media (max-width: 768px){
+	#custom-bootstrap-menu {	
+		height: 80px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand {
+	    height: 80px;
+	    padding-left: 5px;
+	}
+	
+	#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+		font-size: 14px;
+		padding-top: 32px;
+		padding-bottom: 28px;
+	}
+	
+	#mobile-symbol {
+		
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-box {
+		width: 100%;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-desc {
+		font-size: 10px;
+	}
+	
+	#custom-bootstrap-menu .navbar-brand-name {
+		font-size: 20px;
+	}
+	
+	#mobile-number {
+		padding-right: 2vw;
+	}
+}
+
+
