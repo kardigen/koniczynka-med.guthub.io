@@ -2,7 +2,7 @@
 
   <div id="custom-bootstrap-menu" class="navbar navbar-default navbar-fixed-top" role="navigation">
 	<div class="visible-xs">
-		<img class="navbar-brand" src="svg/clover-logo.svg">
+		<img class="navbar-brand" src="{{ "/svg/clover-logo.svg" | prepend: site.baseurl }}">
 		<div class="navbar-brand-box">
 			<span class="navbar-brand-name">Koniczynka Emilia Kamińska</span></br>
 			<span class="navbar-brand-desc">Indywidualna Specjalistyczna Praktyka Lekarska</span>
@@ -14,22 +14,24 @@
             </button>
         </div>-->
         <div ><!--</div>class="collapse navbar-collapse navbar-menubuilder">-->
-            <ul class="nav navbar-nav navbar-left">
-                <li class="navbar-brand-item">
-					<img class="navbar-brand" src="{{ "/svg/clover-logo.svg" | prepend: site.baseurl }}">
-					<div class="navbar-brand-box">
-						<span class="navbar-brand-name">Koniczynka Emilia Kamińska</span></br>
-						<span class="navbar-brand-desc">Indywidualna Specjalistyczna Praktyka Lekarska</span>
-					</div>
-                </li>
-                <li><a id="goto-usecases" href="{{ "/index.html#usecases-a" | prepend: site.baseurl }}">USŁUGI</a>
-                </li>
-                <li><a id="goto-pricelist" href="{{ "/index.html#pricelist-a" | prepend: site.baseurl }}">CENNIK</a>
-                </li>
-                <li><a id="blog-link" href="{{ "/blog.html" | prepend: site.baseurl }}">BLOG</a>
-                </li>
-                <li><a id="goto-contact" href="{{ "/index.html#contact-a" | prepend: site.baseurl }}">KONTAKT</a>
-                </li>
+          <ul class="nav navbar-nav navbar-left">
+              <li class="navbar-brand-item">
+                <a style="all: unset;" href="{{ "/index.html" | prepend: site.baseurl }}" />
+                    <img class="navbar-brand" src="{{ "/svg/clover-logo.svg" | prepend: site.baseurl }}">
+                    <div class="navbar-brand-box">
+                      <span class="navbar-brand-name">Koniczynka Emilia Kamińska</span></br>
+                      <span class="navbar-brand-desc">Indywidualna Specjalistyczna Praktyka Lekarska</span>
+                    </div>
+                  </a>
+              </li>
+              <li><a id="goto-usecases" href="{{ "/index.html#usecases-a" | prepend: site.baseurl }}">USŁUGI</a>
+              </li>
+              <li><a id="goto-pricelist" href="{{ "/index.html#pricelist-a" | prepend: site.baseurl }}">CENNIK</a>
+              </li>
+              <li><a id="blog-link" class="selected" href="{{ "/blog.html" | prepend: site.baseurl }}">BLOG</a>
+              </li>
+              <li><a id="goto-contact" href="{{ "/index.html#contact-a" | prepend: site.baseurl }}">KONTAKT</a>
+              </li>
             </ul>
     		<ul class="nav navbar-nav navbar-right">
 				<li><a style="padding:0;" href="tel:+48576585754"><span id="mobile-symbol"  class="glyphicon glyphicon-phone"></span><span id="mobile-number" >576-585-754</span></a></li>

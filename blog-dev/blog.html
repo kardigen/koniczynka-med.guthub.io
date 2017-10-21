@@ -2,13 +2,13 @@
 layout: default
 ---
   
-  <section class="row">
-  <h1 class="page-heading R48">Najnowsze wpisy</h1>
+  <section class="row R20 col-md-11">
+  <h1 class="page-heading R36">Najnowsze wpisy</h1>
   {% for post in site.posts %}
   {% unless post.draft %}
         <div>
-            <h2 class="title"><a href="{{ post.url | prepend: site.baseurl  }}" rel="prefetch">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt | markdownify }}</p>
+            <h2 class="title R24"><a href="{{ post.url | prepend: site.baseurl  }}" rel="prefetch">{{ post.title }}</a></h2>
+            <div style="text-align: justify;">{{ post.excerpt | markdownify }}</div>
             <time style="opacity: 0.5">{{ post.date | date: "%d.%m.%Y" }}</time>
         </div>
     {% endunless %}

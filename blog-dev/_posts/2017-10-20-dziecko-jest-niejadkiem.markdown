@@ -7,23 +7,23 @@ date:   2017-10-20 11:00:42
 excerpt: Wielu rodziców boryka się z problemem dziecka, które nie chce jeść to znaczy niejadka. Jak sobie z tym radzić? Czy na pewno mamy doczynienia z niejadkiem, a może to coś innego? 
 ---
 
-# Niejadek, czy na pewno?
-
 Wielu rodziców boryka się z problemem dziecka, które nie chce jeść to znaczy niejadka.
-
 Firmy farmaceutyczne prześcigują się w syropkach, lizaczkach i cukiereczkach mających rozwiązać ten problem. Te cudowne specyfiki nie działają! Nie daj się oszukać, nie ma super szybkiego sposobu na to, aby dziecko zaczęło jeść to co my chcemy i w takich ilościach jakie nam się wydają słuszne. 
-
 Przede wszystkim należy zastanowić się czy na pewno mamy doczynienia z niejadkiem, czy tylko nam się tak wydaje, bo otoczenie a zwłaszcza babcie nam coś wmawiają. Zastanów się czy:
 
+{:.R24}
 ## Dziecko zjada z chęcią pełnowartościowe posiłki w żłobku/ przedszkolu a potem w domu nie chce nic jeść?
 Często jest tak, że dzieci, które pięknie wszystko zjadają w przedszkolach, żłobkach nie chcą już później nic jeść w domu, co jest powodem do zmartwień u rodziców. Dzieci te najczęściej po prostu zaspokajają swoje potrzeby kaloryczne w przedszkolu i najzwyczajniej w świecie nie potrzebują już więcej pełnych posiłków. Wszystko co potrzeba organizmowi dostały w placówce, w której przebywały. Niekiedy bywa na odwrót tzn dziecko nic nie je w placówce, do której uczęszcza, za to pięknie zjada posiłki w domu. Wówczas również nie należy się przejmować i poinformować panie przedszkolanki/ opiekunki, aby nie zmuszały dziecka do jedzenia, bo wszystko co potrzeba do jego rozwoju otrzymuje w domu.
 
-## Dajesz dziecku przed głównymi posiłkami coś do picia, przegryzienia, lub karmisz w nocy na śpiąco? 
+{:.R24}
+## Dajesz dziecku przed głównymi posiłkami coś do picia, przegryzienia, lub karmisz w nocy na śpiąco?
 Wiele dzieci dostaje przed posiłkiem np. obiadem ciasteczko, chrupka lub po prostu soczek lub herbatkę do picia, ale ta niewinna przekąska podana nawet na godzinę przed głównym posiłkiem może zniweczyć nasze plany obiadowe. Wiele dzieci po zjedzeniu choćby jednego wafelka lub wypiciu kubeczka napoju zaspokaja swoje odczycie głodu na wiele godzin i po prostu nie ma potem ochoty na obiad. Gdy podajemy kilkulatkowi jedzenie w nocy np. kasza przez butelkę, soki to organizm się do tego przyzwyczaja i przestaje odczuwać głód w dzień, ponieważ wszystkie jego potrzeby są zaspokajane w nocy.
 
+{:.R24}
 ## Czy zamiast obiadu dziecko nie zjada pięćdziesięciu malutkich posiłków w ciągu dnia, czy babcia lub ktoś inny z rodziny nie biega za nim z łyżeczką zupki lub czymś innym przez cały dzień?
 Aby odpowiedzieć sobie na to pytanie należy bardzo skrupulatnie i dokładnie przeanalizować dietę dziecka przez kilka dni. Jak to zrobić najprościej? Na kartce papieru skrupulatnie zapisywać, o której godzinie i co zjadło dziecko np. godz 10:10 łyżeczka serka danio, godz 10:45 dwa gryzy kanapki z białego pieczywa z masłem i szynką godz 11:00 pół kubka (50 ml) herbatki z cukrem 2 łyżeczki i tak dalej. Po sporządzeniu takiej listy może się okazać, że dziecko tak naprawdę nie je mało, że cały czas ma zaspokajaną potrzebę głodu, że tą kanapkę jednak zjadło tylko w dwudziestu ratach, a ilość spożytych kalorii jest prawidłowa.
 
+{:.R24}
 ## Czy o tym, że Twoje dziecko nie chce jeść i jest niejadkiem słyszysz od babć i cioć?
 Przede wszystkim zawsze należy doprecyzować co to znaczy, że dzisiaj Twoje dziecko „nic nie zjadło” bowiem bardzo często owo NIC dla babci oznacza: nie zjadło wszystkiego z talerza, na którym była porcja jak dla dorosłego, albo nie zjadło drugiego dania, ale wcześniej zjadło pół miski rosołu. Zawsze starajmy się dopytać, doprecyzować co dana osoba ma na myśli i czy aby nie popełniła któryś z błędów opisanych powyżej typu ciastko przed obiadem.
 

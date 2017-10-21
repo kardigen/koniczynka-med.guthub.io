@@ -8,12 +8,16 @@
     {% include header.html %}
 
     <div class="visible-lg" style="padding-top: 100px;" ></div>
-    <div class="visible-sm visible-md" style="padding-top: 80px;" ></div>
-    <div class="visible-xs" style="padding-top: 46px;" ></div>
+    <div class="visible-sm visible-md" style="padding-top: 100px;" ></div>
+    <div class="visible-xs" style="padding-top: 80px;" ></div>
     
-    <div class="container">
+    <div class="container" style="min-height: 55vh;">
         {{ content }}
     </div>
+    
+    <div class="visible-lg" style="padding-top: 50px;" ></div>
+    <div class="visible-sm visible-md" style="padding-top: 50px;" ></div>
+    <div class="visible-xs" style="padding-top: 30px;" ></div>
 
     {% include footer.html %}
 
