@@ -9,9 +9,6 @@ excerpt: Wielu rodziców boryka się z problemem dziecka, które nie chce jeść
 
 # Niejadek, czy na pewno?
 
-##
-
-{:.R20}
 Wielu rodziców boryka się z problemem dziecka, które nie chce jeść to znaczy niejadka.
 Firmy farmaceutyczne prześcigują się w syropkach, lizaczkach i cukiereczkach mających rozwiązać ten problem. Te cudowne specyfiki nie działają! Nie daj się oszukać, nie ma super szybkiego sposobu na to, aby dziecko zaczęło jeść to co my chcemy i w takich ilościach jakie nam się wydają słuszne. 
 Przede wszystkim należy zastanowić się czy na pewno mamy doczynienia z niejadkiem, czy tylko nam się tak wydaje, bo otoczenie a zwłaszcza babcie nam coś wmawiają. Zastanów się czy:
@@ -48,5 +45,4 @@ Obserwujmy nasze dziecko, jeśli razem z brakiem chęci do jedzenia Twoje dzieck
 
 
 
-{:.R20}
 
