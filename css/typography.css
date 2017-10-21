@@ -54,6 +54,7 @@
     }   
 }
 
+.indent p,
 p.indent {
     text-indent: 30px;
 }
