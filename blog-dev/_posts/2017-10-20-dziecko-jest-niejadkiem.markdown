@@ -8,7 +8,7 @@ excerpt: Wielu rodziców boryka się z problemem dziecka, które nie chce jeść
 ---
 
 Wielu rodziców boryka się z problemem dziecka, które nie chce jeść to znaczy niejadka.
-Firmy farmaceutyczne prześcigują się w syropkach, lizaczkach i cukiereczkach mających rozwiązać ten problem. Te cudowne specyfiki nie działają! Nie daj się oszukać, nie ma super szybkiego sposobu na to, aby dziecko zaczęło jeść to co my chcemy i w takich ilościach jakie nam się wydają słuszne. 
+Firmy farmaceutyczne prześcigują się w syropkach, lizaczkach i cukierkach mających rozwiązać ten problem. Te cudowne specyfiki nie działają! Nie daj się oszukać, nie ma super szybkiego sposobu na to, aby dziecko zaczęło jeść to, co my chcemy i w takich ilościach, jakie nam się wydają słuszne. 
 Przede wszystkim należy zastanowić się czy na pewno mamy doczynienia z niejadkiem, czy tylko nam się tak wydaje, bo otoczenie a zwłaszcza babcie nam coś wmawiają. Zastanów się czy:
 
 {:.R24}
@@ -17,7 +17,7 @@ Często jest tak, że dzieci, które pięknie wszystko zjadają w przedszkolach,
 
 {:.R24}
 ## Dajesz dziecku przed głównymi posiłkami coś do picia, przegryzienia, lub karmisz w nocy na śpiąco?
-Wiele dzieci dostaje przed posiłkiem np. obiadem ciasteczko, chrupka lub po prostu soczek lub herbatkę do picia, ale ta niewinna przekąska podana nawet na godzinę przed głównym posiłkiem może zniweczyć nasze plany obiadowe. Wiele dzieci po zjedzeniu choćby jednego wafelka lub wypiciu kubeczka napoju zaspokaja swoje odczycie głodu na wiele godzin i po prostu nie ma potem ochoty na obiad. Gdy podajemy kilkulatkowi jedzenie w nocy np. kasza przez butelkę, soki to organizm się do tego przyzwyczaja i przestaje odczuwać głód w dzień, ponieważ wszystkie jego potrzeby są zaspokajane w nocy.
+Wiele dzieci dostaje przed posiłkiem np. obiadem ciasteczko, chrupka lub po prostu soczek albo herbatkę do picia. Ta niewinna przekąska podana nawet na godzinę przed głównym posiłkiem może zniweczyć nasze plany obiadowe. Wiele dzieci po zjedzeniu choćby jednego wafelka lub wypiciu kubeczka napoju zaspokaja swoje odczycie głodu na wiele godzin i po prostu nie ma potem ochoty na obiad. Gdy podajemy kilkulatkowi jedzenie w nocy np. kasza przez butelkę, soki to organizm się do tego przyzwyczaja i przestaje odczuwać głód w dzień, ponieważ wszystkie jego potrzeby są zaspokajane w nocy.
 
 {:.R24}
 ## Czy zamiast obiadu dziecko nie zjada pięćdziesięciu malutkich posiłków w ciągu dnia, czy babcia lub ktoś inny z rodziny nie biega za nim z łyżeczką zupki lub czymś innym przez cały dzień?
@@ -27,25 +27,25 @@ Aby odpowiedzieć sobie na to pytanie należy bardzo skrupulatnie i dokładnie p
 ## Czy o tym, że Twoje dziecko nie chce jeść i jest niejadkiem słyszysz od babć i cioć?
 Przede wszystkim zawsze należy doprecyzować co to znaczy, że dzisiaj Twoje dziecko „nic nie zjadło” bowiem bardzo często owo NIC dla babci oznacza: nie zjadło wszystkiego z talerza, na którym była porcja jak dla dorosłego, albo nie zjadło drugiego dania, ale wcześniej zjadło pół miski rosołu. Zawsze starajmy się dopytać, doprecyzować co dana osoba ma na myśli i czy aby nie popełniła któryś z błędów opisanych powyżej typu ciastko przed obiadem.
 
-Jeżeli któraś z opisanych powyżej sytuacji dotyczy ciebie i Twojego dziecka to postaraj się ich unikać, podawać dziecku tylko te 5-6 posiłków dziennie, nie biegać za nim z łyżeczką, nie podawać słodyczy lub innych przekąsek przed obiadem. Twoje dziecko nie jest niejadkiem, a to, że je w taki a nie inny sposób zostało mu narzucone przez innych i się do tego przyzwyczaiło.
+Jeżeli któraś z opisanych powyżej sytuacji dotyczy ciebie i Twojego dziecka to postaraj się ich unikać, podawać dziecku tylko  5-6 posiłków dziennie, nie biegać za nim z łyżeczką, nie podawać słodyczy lub innych przekąsek przed obiadem. Twoje dziecko nie jest niejadkiem, a to, że je w taki a nie inny sposób, zostało mu narzucone przez innych i się do tego przyzwyczaiło.
 
-Co w sytuacji gdy dziecko ma 5 posiłków dziennie, nie dostaje nic między posiłkami, a mimo tonie jest dokarmiane w nocy, a mimo to nie chce jeść, grymasi przy stole. Taka sytuacja jest źródłem stresu, przejmujesz się co będzie z rozwojem Twojego dziecka. Jest to w pełni zrozumiałe, kochasz i chcesz dla Swojego dziecka jak najlepiej. Pamiętaj, że dziecko ma bardzo dobrze rozwiniętą empatię i podświadomie wyczuwa Twój stres, posiłki zaczynają mu się kojarzyć z czymś negatywnym, smutnym czymś co wywołuje zdenerwowanie u mamy i taty, a kto chciałby w takiej sytuacji jeść? Nikt. Pamiętaj zdrowy organizm się sam nie zagłodzi. Nie zmuszajmy do jedzenia, jak to mówią nastolatki „wyluzujmy trochę”. Często właśnie to odpuszczenie, nie wmuszanie w dziecko jedzenia powoduje, że zaczyna ono zjadać coraz większe porcje i coraz bardziej różnorodne posiłki. Oto kilka sposobów na pozbycie się niejadka:
+Co w sytuacji gdy dziecko ma 5 posiłków dziennie, nie dostaje nic między posiłkami, nie jest dokarmiane w nocy, a mimo to nie chce jeść, grymasi przy stole. Taka sytuacja jest źródłem stresu, przejmujesz się co będzie z rozwojem Twojego dziecka. Jest to w pełni zrozumiałe, kochasz i chcesz dla Swojego dziecka jak najlepiej. Pamiętaj, że dziecko ma bardzo dobrze rozwiniętą empatię i podświadomie wyczuwa Twój stres, posiłki zaczynają mu się kojarzyć z czymś negatywnym, smutnym czymś, co wywołuje zdenerwowanie u mamy i taty, a kto chciałby w takiej sytuacji jeść? Nikt. Pamiętaj zdrowy organizm się sam nie zagłodzi. Nie zmuszajmy do jedzenia, jak to mówią nastolatki „wyluzujmy trochę”. Często właśnie to odpuszczenie, nie wmuszanie w dziecko jedzenia powoduje, że zaczyna ono zjadać coraz większe porcje i coraz bardziej różnorodne posiłki. Oto kilka sposobów na pozbycie się niejadka:
 
 *	Nie wmuszamy posiłków, zdrowemu dziecku nic nie będzie jak nie zawsze zje obiad czy inny posiłek
 *	Jeśli jest taka możliwość to najpierw do diety wprowadzajmy produkty mniej smaczne tzn warzywa przed owocami
 *	Proponujmy różne formy tego samego dania na przykład ziemniaki w kostce zastąpmy pokrojonymi w talarki albo w formie puree
 *	Gdy dany produkt nie smakuje naszemu dziecku zastąpmy go innym równie wartościowym
 *	Włączmy dziecko do przygotowania posiłków, dekoracji stołu
-*	Wspólnie róbmy zakupy, pozwólmy dziecku wybrać produkty na obiad (oczywiście zdrowe), czekolada na obiad odpada
-*	Bardzo ważne jest jedzenie wspólne posiłków, jedzmy posiłki razem z dzieckiem zamiast koncentrować się tylko i wyłącznie na jego jedzeniu, pokażmy że obiad jest pyszny, że sami go jemy z uśmiechem
-*	Przeznaczmy na posiłek odpowiednią ilość czasu na przykład obiad 20-30 minut, potem niezależnie od tego czy dziecko zjadło czy nie zabieramy talerze i sprzątamy po obiedzie, a następny posiłek podajmy dopiero za 3 godziny. Dziecko bardzo szybko nauczy się, że trzeba zjeść o danej porze, a nie marnować czas na marudzenie.
-*	Proponując daną przekąskę na drugie śniadanie lub podwieczorek ograniczmy możliwość wyboru. Zadajemy pytanie Zjesz jabłko czy banana? Zamiast Czy zjesz banana? 
+*	Wspólnie róbmy zakupy, pozwólmy dziecku wybrać produkty na obiad (oczywiście zdrowe)- czekolada na obiad odpada
+*	Bardzo ważne jest wspólne jedzenie posiłków, jedzmy posiłki razem z dzieckiem zamiast koncentrować się tylko i wyłącznie na jego jedzeniu, pokażmy, że obiad jest pyszny i sami go jemy z uśmiechem
+*	Przeznaczmy na posiłek odpowiednią ilość czasu, na przykład obiad jemy w 20-30 minut, potem niezależnie od tego czy dziecko zjadło czy nie zabieramy talerze i sprzątamy po obiedzie, a następny posiłek podajmy dopiero za 3 godziny. Dziecko bardzo szybko nauczy się, że trzeba zjeść o danej porze i nie marnować czasu na marudzenie.
+*	Proponując daną przekąskę na drugie śniadanie lub podwieczorek ograniczmy możliwość wyboru. Zadajmy pytanie Zjesz jabłko czy banana? Zamiast Czy zjesz banana? 
 *	Nie spełniamy zachcianek, nie nagradzamy dziecka za niezjedzenie obiadu pysznym deserkiem? Wytłumaczmy: nie zjadłeś obiadu, nie dostaniesz deseru.
-*	Wyłączmy wszystkie rozpraszające dziecko urządzenia typu telewizor, tablet, komputer radio
+*	Wyłączmy wszystkie rozpraszające dziecko urządzenia typu telewizor, tablet, komputer, radio
 *	Gdy dziecko zjada tylko kilka ulubionych swoich potraw spróbujmy je tak modyfikować, aby posiłek był bardziej urozmaicony np. powciskajmy w parówkę groszek, dodajmy do naleśników starte jabłko lub inne owoce
 *	Nadajmy posiłkom dodatkowe znaczenie, opowiedzmy o białym serze, który leczy zęby lub dodającej siły kanapce
 *	Niech nasze posiłki wyglądają ładnie i bajkowo, rysujmy buźki z ketchupu na kanapce, podajmy łódki z połówki jajka z żaglem z sera i sterem z rzodkiewki
-*	Nie zmuszajmy dziecka do jedzenia, ale zachęcajmy do spróbowania nowych potraw zapewniając, że zawsze będzie mogło wypluć jeśli mu bardzo nie posmakuje. 
+*	Nie zmuszajmy dziecka do jedzenia, ale zachęcajmy do spróbowania nowych potraw zapewniając, że zawsze będzie mogło wypluć, jeśli mu bardzo nie posmakuje. 
 *	Najważniejsze, aby zawsze dać dziecku poczucie wspólnoty, przynależności do rodziny i pokazać, że w pełni akceptujemy jego wybory, ale nie zachcianki
 
 Obserwujmy nasze dziecko, jeśli razem z brakiem chęci do jedzenia Twoje dziecko traci na wadze, nie rośnie lub nie nabywa nowych umiejętności to wymaga to pilnej konsultacji z lekarzem.
