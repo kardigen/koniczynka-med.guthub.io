@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Czy telewizor jest niebezpieczny dla Twojego dziecka?"
-date:   2017-10-28 11:00:42
+date:   2017-10-28 08:00:00
 
 excerpt: Dzisiejszy świat naszpikowany jest elektroniką. Wszędzie obecne telewizory, tablety, komputery i komórki są źródłem rozrywki oraz wszelakiej wiedzy. Niestety, źle użytkowane, stanowią ogromne niebezpieczeństwo dla naszych dzieci.
 ---
