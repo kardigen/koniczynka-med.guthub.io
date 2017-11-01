@@ -29,18 +29,18 @@ W zależności od tego jaki mamy preparat/ syrop musimy teraz ustalić ile to b�
 W tym przypadku będzie to 6,25ml syropu.
 
 Dla dziecka o wadze 12 kg będzie to:
-120mg w 5 ml syropu
-180mg w ? ml
-180 x 5 : 120 = 7,5 ml syropu
+120mg w 5 ml syropu  
+180mg w ? ml  
+180 x 5 : 120 = 7,5 ml syropu  
 Dziecko o wadze 12kg powinno otrzymać 7,5 ml syropu, w którym jest 120mg paracetamolu w 5 ml. 
 
 Na opakowaniach często podane jest dawkowanie w przedziałach tzn dla wagi od 10 do 15 kg podać 6 ml syropu, ale jak sami zauważyliście, taka ilość dla dziecka o wadze 10 kg ma szansę zadziałać, ale już u takiego, co waży więcej, niestety nie. Działanie przeciwgorączkowe będzie znikome lub lek nie zadziała w ogóle.
 Policzmy jeszcze raz, ale tym razem dla Calpol 6 plus. Ten syrop zawiera zgodnie z informacją na opakowaniu 250 mg paracetamolu w 5 ml. Dla dziecka o wadze 10 kg potrzebujemy: 
 10kg x 15mg = 150mg paracetamolu
-ile to ml?
-250mg jest w 5ml
-150mg jest w ?ml
-150 x 5 : 250 = 3ml
+ile to ml?  
+250mg jest w 5ml  
+150mg jest w ?ml  
+150 x 5 : 250 = 3ml  
 Dziecko o wadze 10 kg potrzebuje 3 ml syropu Calpol 6 plus
 
 Dziecko rosnąc w pewnym momencie osiągnie wagę 34kg, dla której ilość paracetamolu wyniesie około 500mg.To jest dawka maksymalna dla dzieci, której nie wolno przekraczać (zresztą dorośli też nie powinni). NIE PRZEKRACZAJ 500mg paracetamolu na jedną dawkę. 
