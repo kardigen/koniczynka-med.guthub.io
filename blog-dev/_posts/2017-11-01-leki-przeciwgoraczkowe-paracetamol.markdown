@@ -61,13 +61,13 @@ W obydwóch przypadkach dojdzie do pewnego uszkodzenia wątroby, ale w pierwszym
 Drugi przypadek ma znacznie łagodniejszy przebieg i o ile podawanie paracetamolu nie trwa za długo, po odstawieniu paracetamolu wątroba regeneruje się. Taka forma przedawkowania jest częsta u dorosłych, którzy leczą się na przeziębienie znanymi i modnymi saszetkami lub tabletkami do rozpuszczania typu gripex, coldrex. Zawsze czytajmy składy i nie przekraczajmy zalecanych przez producenta dawek. Jeśli danego dnia pijemy 3 Gripex Hot Max to NIE WOLNO nam wypić dodatkowo Fervexu lub Theraflu, bo przekroczymy dawkę maksymalną paracetamolu, nie wspominając o innych składnikach zawartych w tych produktach jak kofeina czy pseudoefedryna, powodujących zaburzenia czynności serca.
 
 Przypadkowe podanie dawki śmiertelnej lub nieodwracalnie uszkadzającej wątrobę jest raczej mało prawdopodobne. Bardzo często zdarza się jednak u nastolatków, którzy nie radząc sobie z emocjami kupują parę opakowań tabletek i połykają je.  
- **Jaka jest jednorazowa dawka śmiertelna?**
+ **Jaka jest jednorazowa dawka śmiertelna?**  
 200mg paracetamolu na każdy kilogram masy ciała.  
 **Czy to dużo?**  
 Dla nastolatka o wadze około 45 kg będzie to 200mg x 45kg = 9000mg, czyli 18 tabletek po 500mg lub 36 po 250mg (czyli standardowych sprzedawanych w każdym supermarkecie). W połączeniu z alkoholem, który także uszkadza wątrobę, będzie to jeszcze mniej. Rozmawiajmy więc z naszymi dziećmi, starajmy się zwracać uwagę, czy nie mają problemów. Dzisiaj, kiedy wszyscy są zabiegani starajmy się chociaż jeden posiłek zjeść wspólnie, jedocześnie poświęcając czas na rozmowę z naszymi dziećmi. Dla nas błahy problemik, może być czymś ogromnym i nie do przeżycia w oczach nastolatka.
 
 **Objawy spożycia dawki znacznie przekraczającej dopuszczalną to:**    
-Początkowo pojawia się:
+Początkowo:
 * gorsze samopoczucie, zmęczenie
 * bladość,
 * poty,
