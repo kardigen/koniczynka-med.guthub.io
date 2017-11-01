@@ -22,8 +22,8 @@ Każdy może wyliczyć prawidłową dawkę leku dla swojego dziecka znając jego
 A dziecko o wadze 12kg będzie potrzebować 180mg paracetamolu
 15mg x 12kg = 180mg
 W zależności od tego jaki mamy preparat/ syrop musimy teraz ustalić ile to będzie mililitrów. Standardowo większość syropów posiada dawkę 120mg w 5 ml syropu (zawsze należy sprawdzić na opakowaniu). Stosując prosty wzór możemy dowiedzieć się ile mililitrów potrzebuje nasze dziecko. Jeśli nasze dziecko waży 10 kg to potrzebna dawka to 150mg paracetamolu. W syropie jest 120mg paracetamolu w 5 ml syropu. Mnożymy ilość potrzebnych miligram razy 5ml syropu i dzielimy przez 120.  
-120mg w 5ml
-150mg w ? ml
+120mg w 5ml  
+150mg w ? ml  
 150 x 5 : 120 = ilość mililitrów jaką mamy podać
 
 W tym przypadku będzie to 6,25ml syropu.
