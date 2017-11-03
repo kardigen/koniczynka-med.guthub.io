@@ -3,6 +3,7 @@ layout: post
 title:  "Moje dziecko jest niejadkiem! Co dalej?"
 date:   2017-10-20 11:00:42
 
+page.title: Koniczynka Med - Moje dziecko jest niejadkiem! Co dalej?
 
 excerpt: Wielu rodziców boryka się z problemem dziecka, które nie chce jeść to znaczy niejadka. Jak sobie z tym radzić? Czy na pewno mamy doczynienia z niejadkiem, a może to coś innego? 
 ---
