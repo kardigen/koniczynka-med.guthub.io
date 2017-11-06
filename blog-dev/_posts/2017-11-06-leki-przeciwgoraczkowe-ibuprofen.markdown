@@ -75,7 +75,9 @@ Przy większych dawkach może dojść do:
 * zaburzeń funkcji nerek i wątroby
 * zaburzeń rytmu serca 
 
-Co robić gdy pomimo stosowania ibuprofenu w dobrej dawce gorączka powraca szybciej niż za 8 godzin? zapraszam do kolejnego posta już niedługo.
+Co robić gdy pomimo stosowania ibuprofenu w dobrej dawce gorączka powraca szybciej niż za 8 godzin? Zapraszam do kolejnego posta już niedługo.  
+O paracetamolu czytaj [tutaj](http://koniczynka-med.pl/2017/11/03/leki-przeciwgoraczkowe-paracetamol.html)
+
 
 
 
