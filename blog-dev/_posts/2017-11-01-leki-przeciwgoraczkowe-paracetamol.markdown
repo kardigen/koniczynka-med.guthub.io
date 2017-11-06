@@ -84,7 +84,7 @@ Następnym etapem jest uszkodzenie nerek i śmierć.
 
 Leczenie ostrego zatrucia paracetamolem jest bardzo skomplikowane, długotrwałe i niestety czasami nieskuteczne.
 
-Informacje o drugiej grupie leków przeciwgorączkowych Ibuprofenie i sposoby, jak radzić sobie z gorączką, gdy jedna grupa leków to za mało, w kolejnych postach. [2017-11-06-leki-przeciwgoraczkowe-ibuprofen.markdown] Ibuprofen Zapraszam.
+Informacje o drugiej grupie leków przeciwgorączkowych Ibuprofenie i sposoby, jak radzić sobie z gorączką, gdy jedna grupa leków to za mało, w kolejnych postach. [Ibuprofen](http://koniczynka-med.pl/2017/11/06/leki-przeciwgoraczkowe-ibuprofen.html Zapraszam.
 
 
 
