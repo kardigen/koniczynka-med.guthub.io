@@ -3,7 +3,7 @@ layout: post
 title:  "Leki przeciwgorączkowe na bazie ibuprofenu."
 date:   2017-10-28 11:00:42
 
-excerpt:"Ibuprofen to kolejna grupa leków przeciwgorączkowych, które możemy podać dzieciom.Jak działa, dawkowanie i bezpieczeństwo stosowania. To wszystko w dzisiejszym poście. O paracetamolu możecie przeczytać w poprzednim poście." 
+excerpt:"Ibuprofen to kolejna grupa leków przeciwgorączkowych, które możemy podać dzieciom.Jak działa, dawkowanie i bezpieczeństwo stosowania. To wszystko w dzisiejszym poście. O paracetamolu możecie przeczytać w poprzednim [poście](http://koniczynka-med.pl/2017/11/03/leki-przeciwgoraczkowe-paracetamol.html)." 
 ---
 
 {:.R24}
