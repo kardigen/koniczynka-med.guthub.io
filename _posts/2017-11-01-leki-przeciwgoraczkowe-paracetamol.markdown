@@ -3,7 +3,7 @@ layout: post
 title:  "Leki przeciwgorączkowe dla dzieci. Paracetamol"
 date:   2017-11-03 11:00:42
 
-excerpt: Współczesna medycyna oferuje dla dzieci dwie grupy leków o działaniu przeciwgorączkowym i przeciwbólowym: paracetamol i ibuprofen. Spróbujmy przyjrzeć się bliżej obu grupom.
+excerpt: "Współczesna medycyna oferuje dla dzieci dwie grupy leków o działaniu przeciwgorączkowym i przeciwbólowym: paracetamol i ibuprofen. Spróbujmy przyjrzeć się bliżej obu grupom."
 ---
 
 Współczesna medycyna oferuje dla dzieci dwie grupy leków o działaniu przeciwgorączkowym i przeciwbólowym: paracetamol i ibuprofen. Substancje te są sprzedawane pod wieloma nazwami handlowymi często w połączeniu z innymi lekami. Są to leki bardzo skuteczne, ale i niebezpieczne. Spróbujmy przyjrzeć się bliżej obu grupom.
