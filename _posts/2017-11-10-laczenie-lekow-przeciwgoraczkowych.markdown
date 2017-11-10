@@ -20,7 +20,13 @@ Przy podawaniu leków przeciwgorączkowych zawsze pamiętaj o dobrym nawodnieniu
 
 **Łączenie leków
 
-Leki z grupy paracetamoli podajemy co 6 godzin w odpowiedniej dawce do wagi, gdy to nie wystarcza i gorączka pojawia się szybciej niż za 6 godzin można podać lek z ibuprofenem w dawce dostosowanej do masy ciała. Pamiętać trzeba tylko o jednym, pomiędzy kolejnymi dawkami ibuprofenu musi upłynąć 8 godzin, a pomiędzy kolejnymi dawkami paracetamolu 6 godzin, odstęp pomiędzy ibuprofenem a paracetamolem to jedna godzina. 
+Leki z grupy paracetamoli podajemy co 6 godzin w odpowiedniej dawce do wagi, gdy to nie wystarcza i gorączka pojawia się szybciej niż za 6 godzin można podać lek z ibuprofenem w dawce dostosowanej do masy ciała. Pamiętać trzeba tylko o jednym, pomiędzy kolejnymi dawkami ibuprofenu musi upłynąć 8 godzin, a pomiędzy kolejnymi dawkami paracetamolu 6 godzin, odstęp pomiędzy ibuprofenem a paracetamolem to jedna godzina.  
+Czyli, jeśli podaliśmy paracetamol np o 12:00 to śmiało przy nawrocie gorączki lub jej słabym obniżeniu, możemy o 13:00 podać ibuprofen. Ponowną dawkę paracetamolu podamy o 18:00 (po 6 godzinach od 12:00), a ewentualną kolejną dawkę ibuprofenu można dać o 21:00 (czyli po 8 godzinach od 13:00). Dlatego najlepiej stosować leki zamiennie co 3-4 godziny, aby mieć możliwość podaważy któregoś z leków przez całą dobę.
 
-Gdy pomimo prawidłowych dawek leków i stosowania zarówno paracetamolu jak i ibuprofenu gorączka nie obniża się chociaż na 2-3 godziny należy natychmiast zgłosić się do szpitala.
+**Ochładzanie fizykalne
+
+Co kryje się pod tą nazwą? Nic innego jak chłodne (nie zimne) okłady na głowę, brzuch i pachwiny. Podawanie chłodniejszych płynów do picia. Rezygnacja z okrywania dziecka grubą kołdrą.
+
+
+**Gdy pomimo prawidłowych dawek leków i stosowania zarówno paracetamolu jak i ibuprofenu gorączka nie obniża się chociaż na 2-3 godziny należy natychmiast zgłosić się do szpitala.
 
