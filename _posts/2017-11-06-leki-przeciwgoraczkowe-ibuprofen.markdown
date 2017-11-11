@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Leki przeciwgorączkowe na bazie ibuprofenu."
-date:   2017-10-28 11:00:42
+date:   2017-11-06 11:00:00
 
-excerpt:"Ibuprofen to kolejna grupa leków przeciwgorączkowych, które możemy podać dzieciom.Jak działa, dawkowanie i bezpieczeństwo stosowania. To wszystko w dzisiejszym poście. O paracetamolu możecie przeczytać w poprzednim [poście](http://koniczynka-med.pl/2017/11/03/leki-przeciwgoraczkowe-paracetamol.html)." 
+excerpt: "Ibuprofen to kolejna grupa leków przeciwgorączkowych, które możemy podać dzieciom.Jak działa, dawkowanie i bezpieczeństwo stosowania. To wszystko w dzisiejszym poście. O paracetamolu możecie przeczytać w poprzednim [poście](http://koniczynka-med.pl/2017/11/03/leki-przeciwgoraczkowe-paracetamol.html)." 
 ---
 
 {:.R24}
@@ -17,17 +17,15 @@ Ibuprofen to drugi lek, który pomaga w okiełznaniu gorączki u dzieci. Znajdzi
 Lek jest bezpieczny, o ile stosujemy go w odpowiednich dawkach. Dawki za duże będą uszkadzać nerki, wątrobę, mogą spowodować krwawienia przede wszystkim z przewodu pokarmowego, a za małe w ogóle nie będą działać przeciwgorączkowo.  
 Każdy może wyliczyć prawidłową dawkę leku dla swojego dziecka znając jego wagę.  
 Ibuprofen stosujemy w ilości 10mg na każdy kilogram masy ciała dziecka **(10mg/1 kg)** Czyli dziecko o wadze 10 kg potrzebuje 100 mg ibuprofenu, aby obniżyć gorączkę.  
-
 10mg x 10kg = 100 mg  
 A dziecko o wadze 12kg będzie potrzebować 120mg ibuprofenu  
 10mg x 12kg = 120mg  
 
 W zależności od tego jaki mamy preparat/ syrop musimy teraz ustalić ile to będzie mililitrów. Standardowo większość syropów posiada dawkę 100mg w 5 ml syropu (zawsze należy sprawdzić na opakowaniu). Stosując prosty wzór możemy dowiedzieć się ile mililitrów potrzebuje nasze dziecko.  
-Jeśli nasze dziecko waży 10 kg to potrzebna dawka to 100mg ibuprofenu. W syropie jest 100mg ibuprofenu w 5 ml syropu. Mnożymy ilość potrzebnych miligram razy 5ml syropu i dzielimy przez 100 (ilość w 5 ml).
-
+Jeśli nasze dziecko waży 10 kg to potrzebna dawka to 100mg ibuprofenu. W syropie jest 100mg ibuprofenu w 5 ml syropu. Mnożymy ilość potrzebnych miligram razy 5ml syropu i dzielimy przez 100 (ilość w 5 ml).  
 100mg w 5ml  
 100mg w ? ml  
-100 x 5 : 100 = ilość mililitrów jaką mamy podać  
+100 x 5 : 100 = ilość mililitrów jaką mamy podać
 W tym przypadku będzie to 5ml syropu.(Akurat w tym przypadku nie trzeba było liczyć :) )
 
 Dla dziecka o wadze 12 kg będzie to:  
