@@ -2,9 +2,9 @@
 
 layout: post
 title:  "Gorączka cały czas powraca! Leki przeciwgorączkowe nie działają! Co robić?"
-date:   2017-10-28 11:00:42
+date:   2017-11-10 11:00:00
 
-excerpt:"Czasami zdarza się, że pomimo stosowania dobrego leku przeciwgorączkowego gorączka pojawia się bardzo szybko ponownie. Co wówczas robić? W jaki sposób łączyć leki przeciwgorączkowe, aby pomóc dziecku?"
+excerpt: "Czasami zdarza się, że pomimo stosowania dobrego leku przeciwgorączkowego gorączka pojawia się bardzo szybko ponownie. Co wówczas robić? W jaki sposób łączyć leki przeciwgorączkowe, aby pomóc dziecku?"
 
 ---
 
