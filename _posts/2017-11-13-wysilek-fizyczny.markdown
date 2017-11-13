@@ -41,3 +41,4 @@ Małe dzieci mają wdrukowany wzorzec poruszania się, bez zachęty chcą ćwicz
 
 Poniżej przedstawiam piramidę aktywności fizycznej. Podstawą jest codzienna drobna aktywność taka jak zwyczajne chodzenie, bo to ona ma największy wpływ na nasze zdrowie i samopoczucie. Pozostałe piętra wprowadzamy stopniowo dochodząc do 60 minut ćwiczeń ogólnorozwojowych dziennie 3-5 razy w tygodniu pozostałe dni poświęcając na rozciąganie mięśni i ewentualny trening siłowy. Dla dzieci w ogóle nie jest wskazana siłownia, dla nich odpowiednim ciężarem jaki mają udźwignąć jest ciężar własnego ciała, nic więcej. 
 
+![piramida wysiłku fizycznego](/png/piramidasportu.png)
