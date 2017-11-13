@@ -3,7 +3,7 @@ layout: post
 title:  "Wysiłek fizyczny najlepsze lekarstwo"
 date:   2017-11-13 08:00:00
 
-excerpt:"Dlaczego wysiłek fizyczny jest tak ważny dla zdrowia? Jaki rodzaj sportu i w jakich ilościach jest najlepszy dla nas i naszych dzieci?"
+excerpt: "Dlaczego wysiłek fizyczny jest tak ważny dla zdrowia? Jaki rodzaj sportu i w jakich ilościach jest najlepszy dla nas i naszych dzieci?"
 ---
 
 Aktywność fizyczna- dlaczego jest tak dla nas ważna?
