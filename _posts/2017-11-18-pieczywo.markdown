@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pieczywo. Skład a nasze zdrowie"
+title:  "Pieczywo - skład a nasze zdrowie"
 date:   2017-11-19 08:00:00
 
 excerpt: "Chleb to nadal główny składnik śniadań i kolacji w wielu polskich domach. Jakie rodzaje pieczywa oferują sklepy? Co to technologia odroczonego wypieku? Czy jest zdrowa?"
