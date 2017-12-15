@@ -21,7 +21,7 @@ Na siatkach widzimy wiele krzywych oznaczonych na końcu liczbami, najczęściej
 
 Chcąc sprawdzić czy nasze dziecko ma prawidłowy wzrost musimy zaznaczyć go na siatce centylowej w miejscu przecięcia się go z wiekiem dziecka. Spróbujmy określić czy wzrost 111cm dla 5 letniego chłopca jest prawidłowy. Na przykładowym rysunku mamy siatkę centylową dla chłopców. Znajdujemy wzrost 111cm, a potem wiek równe 5 lat, wyrysowujemy linię i w miejscu ich przecięcia stawiamy punkt. Ten punkt określa nam wzrost naszego dziecka. Teraz sprawdzamy pomiędzy jakimi liniami z centylami (to te liczby z boku) znajduje się nasz punkt. Może się zdarzyć, ze będzie leżał dokładnie na linii. W naszym przykładzie jest to linia 50 centyla. Punkt może znajdować się także pomiędzy dwiema liniami, mówimy wówczas, że wzrost dziecka znajduje się między np. 25 a 50 centylem.
 
-![siatka centylowa oznaczanie punktu](/png/wzrost_ch_max oznaczanie punktu.jpeg)
+![siatka centylowa oznaczanie punktu](/png/siatkaoznaczaniepunktu.jpeg)
 
 Gdy dziecko ma 5 i pół roku to ten wiek szukamy, nie prowadzimy lini od 5 lat tylko od połowy między 5 a 6 rokiem życia. Gdy dziecko ma 5 lat i 10 miesięcy to linię przesuwamy jeszcze bliżej 6 lat.
 
@@ -31,7 +31,7 @@ Gdy dziecko ma 5 i pół roku to ten wiek szukamy, nie prowadzimy lini od 5 lat 
 Gdy punkt wzrostu znajduje się równo na danej linii centylowej np. 50 to oznacza, że jest 50 procent dzieci wyższych i 50 procent dzieci niższych (na sto przebadanych dzieci 50 będzie wyższe od naszego dziecka a 50 niższe). Gdy punkt wagi jest równo na 50 centylu oznacza to, że jest 50 procent dzieci grubszych i 50 procent dzieci chudszych. 
 Gdy punkt jest na 75 centylu to mówimy, że jest 75 procent dzieci niższych, chudszych (po prostu mają parametr, który mierzymy mniejszy) i jest 25 procent dzieci o większym wzroście, wadze itp. w porównaniu z naszym dzieckiem.
 
-![siatka centylowa oznaczanie centyli](/png/wzrost_ch_max centyl jaki.jpg)
+![siatka centylowa oznaczanie centyli](/png/siatkacentyljaki.jpg)
 
 {:.R24}
 ## Normy. Gdzie na siatce centylowej może znajdować się punk i jest to prawidłowe, a gdzie już nie.
@@ -53,7 +53,8 @@ Gdy natomiast wzrost jest na 25 centylu a waga na 75 to oznacza nieprawidłowy r
 Rozwój każdego dziecka jest inny, ale musi przebiegać równomiernie. Dziecko, którego wzrost utrzymuje się pomiędzy 75 a 50 centylem nie może nagle spadać na 10, bo to oznacza, że dzieje się z nim coś niedobrego, co wymaga diagnostyki. Tak samo, gdy cały czas punkty były blisko 75 centyla i nagle spadły na 25 powinna zapalić nam się czerwona lampka, że coś jest nie tak, dzieje się coś złego. Natomiast dziecko, którego wzrost cały czas przebiegał na 25 centylu może okresowo dochodzić do 10 i nie będzie w tym nic złego. Ogólna zasada jest taka, iż dana cecha (wzrost, waga, obwód główki) nie może się wahać o więcej niż dwa pasy/przedziały centylowe.  
 Ważny jest także rozwój rodziców. Jeżeli oboje rodzice są wysocy, mają wzrost powyżej 75 centyla, a ich dziecko wzrost na 10 centylu to wymaga diagnostyki, czy po prostu nie odziedziczyło wysokiego wzrostu, czy jednak jest chore i wymaga leczenia.
 
-![siatka centylowa prawidłowy rozwój](/png/wzrost_ch_max prawidłowo.jpg)
-![siatka centylowa nieprawidłowy rozwój](/png/wzrost_ch_max nieprawidł.jpg)
+![siatka centylowa prawidłowy rozwój](/png/siatkaprawidprzeb.jpg)
+
+![siatka centylowa nieprawidłowy rozwój](/png/siatkanieprawidprzeb.jpg)
 
 W większości książeczek zdrowia na końcu znajdują się siatki centylowe. Wystarczy samodzielnie narysować w odpowiednich miejscach punkty, aby wiedzieć czy waga i wzrost naszego dziecka są prawidłowe.
