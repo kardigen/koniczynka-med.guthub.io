@@ -58,3 +58,6 @@ Ważny jest także rozwój rodziców. Jeżeli oboje rodzice są wysocy, mają wz
 ![siatka centylowa nieprawidłowy rozwój](/png/siatkanieprawidprzeb.jpg)
 
 W większości książeczek zdrowia na końcu znajdują się siatki centylowe. Wystarczy samodzielnie narysować w odpowiednich miejscach punkty, aby wiedzieć czy waga i wzrost naszego dziecka są prawidłowe.
+
+
+wzór siatki centylowej pochodzi ze strony medycyny praktycznej [siatki centylowe](https://pediatria.mp.pl/prawidlowyrozwoj/rozwojfizyczny/52272,siatki-centylowe-waga-i-wzrost-malego-dziecka)
