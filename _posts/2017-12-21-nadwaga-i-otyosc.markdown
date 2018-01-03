@@ -33,17 +33,17 @@ Gdy policzymy wskaźnik BMI dla naszego dziecka musimy go umieścić teraz na si
 Przedział między 85 a 97 centylem to nadwaga  
 Przedział powyżej 97 centyla to otyłość  
 
-![siatka nadwaga otylosc](/png/figure7.jpg)
+![siatka nadwaga otylosc](/png/figure7.jpg )
 
 Siatki centylowe można znaleźć w internecie na przykład na stronie Międzynarodowej Organizacji Zdrowia WHO [tutaj](http://www.who.int/childgrowth/standards/en/)
 
 Siatki centylowe przedstawione poniżej są właśnie z tej strony
-![siatka chlopcy](/png/cht_bfa_boys_p_0_5.jpg)
-![siatka chlopcy2](/png/cht_bfa_boys_p_2_5.png)
-![siatka chlopcy3](/png/cht_bmifa_boys_perc_5_19years.png)
-![siatka dziewcz](/png/cht_bfa_girls_p_0_5.png)
-![siatka dziewcz1](/png/cht_bfa_girls_p_2_5.png)
-![siatka dziewcz2](/png/cht_bmifa_girls_perc_5_19years.jpg)
+![siatka chlopcy](/png/cht_bfa_boys_p_0_5.jpg ){:width="875px"}
+![siatka chlopcy2](/png/cht_bfa_boys_p_2_5.png ){:width="875px"}
+![siatka chlopcy3](/png/cht_bmifa_boys_perc_5_19years.png ){:width="875px"}
+![siatka dziewcz](/png/cht_bfa_girls_p_0_5.png ){:width="875px"}
+![siatka dziewcz1](/png/cht_bfa_girls_p_2_5.png ){:width="875px"}
+![siatka dziewcz2](/png/cht_bmifa_girls_perc_5_19years.jpg ){:width="875px"}
 
 {:.R24}
 ## Przyczyny nadwagi i otyłości
