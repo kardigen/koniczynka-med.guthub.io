@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Popularne leki na zgagęi ból zołądka takie jak Omeprazol. Czy można je bezkarnie zażywać i podawać dzieciom?"
-date:   2017-11-03 11:00:42
+date:   2018-01-05 11:00:42
 
 excerpt: "Zgaga, ból żołądka, niespokojny sen dziecka…  
 - Kup Helicid/ Polprazol – pada stwierdzenie dobrej cioci.  
