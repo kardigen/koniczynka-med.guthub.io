@@ -39,5 +39,5 @@ Choroby, które należy leczyć inhibitorami pompy protonowej rozpoznaje lekarz 
 
 Jeśli cierpimy na choroby, których leczenie obejmuje przyjmowanie leków z grupy inhibitorów pompy protonowej, to przede wszystkim nie przekraczajmy dawek zalecanych ani długości kuracji, dodatkowo suplementujmy się probiotykami. Spożywanie probiotyków np. Dicoflor, Lakcid, Acidolac i inne nie zapobiega zupełnie, ale znacznie ogranicza zły wpływ inhibitorów pompy protonowej na bakterie jelitowe.  
 
-Artykuł powstał w oparciu o  artykuł: Inhibitory pompy protonowej a mikrobiom przewodu pokarmowego, który ukazał się w czasopiśmie Pediatria Polska link.
+Tekst powstał w oparciu o  artykuł: Inhibitory pompy protonowej a mikrobiom przewodu pokarmowego, który ukazał się w czasopiśmie Pediatria Polska [link](http://www.sciencedirect.com/science/article/pii/S0031393917300021).
 
