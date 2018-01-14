@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Popularne leki na zgagęi ból zołądka takie jak Omeprazol. Czy można je bezkarnie zażywać i podawać dzieciom?"
+title:  "Popularne leki na zgagę i ból żołądka takie jak Omeprazol. Czy można je bezkarnie zażywać i podawać dzieciom?"
 date:   2018-01-05 11:00:42
 
 excerpt: "Zgaga, ból żołądka, niespokojny sen dziecka…  
