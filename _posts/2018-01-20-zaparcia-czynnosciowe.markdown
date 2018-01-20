@@ -14,7 +14,7 @@ Tuż po urodzeniu noworodek oddaje smółkę, czyli bardzo ciemny, lepki stolec,
 Niemowlę karmione mlekiem matki może robić kupkę od kilkunastu razy na dobę do tylko jednej na tydzień. Jeśli rzadkiemu oddawaniu stolca nie towarzyszą żadne dolegliwości ze strony układu pokarmowego, nie ma wzdęć brzuszka, ani kolek, to nie należy się przejmować, po prostu mleko mamy jest tak dobrze wchłaniane w jelitach dziecka, że nie zostaje już nic na uformowanie kału. Stolec dziecka pijącego mleko z piersi może być zupełnie wodnisty lub przypominać jajecznicę, od czasu do czasu może mieć także odcień zielonego koloru.  
 Stolec niemowlaka karmionego sztucznie jest najczęściej bardziej zwarty i przypomina jajecznicę. Prawidłowo uformowany stolec u dziecka jak i dorosłego jest w kształcie parówki lub kiełbaski, która może na swojej powierzchni mieć niewielkie nierówności i spękania lub być całkowicie gładka. Stolec powinien być miękki i oddawany z łatwością, bez większego wysiłku.
 
-![stolec](/png/stolec.png)
+![stolec](/png/stolec.jpg)
 
 {:.R24}
 ## Co to są zaparcia czynnościowe? Jak je rozpoznać?
