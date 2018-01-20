@@ -37,14 +37,15 @@ Do zaparcia czynnościowego dochodzi najczęściej przy zmianie diety z płynnej
 
 Przede wszystkim do wszystkiego musimy podejść spokojnie. Nie zmuszać dziecka do siedzenia na toalecie przez wiele minut, aż zrobi kupkę. Nie krzyczeć i nie zawstydzać dziecka gdy pobrudzi majteczki.  
 Pierwszą rzeczą jaką należy zrobić to oczyścić jelita z zalegających mas kałowych. Możemy dać **leki doustnie z dużą ilością płynów z grupy makrogoli** (Dicopeg, Forlax), które są bardzo dobrze tolerowane przez dzieci. Rozluźniają one masy kałowe w jelitach. Działają można by rzec od góry. Od dołu możemy zastosować czopek glicerynowy, który rozluźni masy kałowe od drugiej strony oraz ułatwi ich wyjście nadając poślizg.  
-Druga rzecz to **zapobieganie kolejnym zaparciom**. Przyglądamy się diecie dziecka, czy jest w niej wystarczająca ilość płynów i błonnika. Gdzie znaleźć błonnik? **Błonnik** znajduje się we wszystkich owocach i warzywach spożywanych na surowo, a także w gotowanej fasoli, grochu. Orzechy, bakalie, kasze, płatki owsiane to także źródło błonnika. Najważniejsze, aby błonnik pochodził z różnych źródeł, część z owoców, część z pieczywa pełnoziarnistego, część z musli. Aby błonnik spełniał swoją rolę bardzo ważne jest **odpowiednie nawodnienie**. Najlepiej, aby dziecko do picia dostawało wodę, zabronione są soki o działaniu zapierającym takie jak bananowy, marchewkowy. Kaszek ryżowych także należy się wystrzegać wprowadzając na ich miejsce pełnoziarniste. Słodycze są zabronione!!!  
+Druga rzecz to **zapobieganie kolejnym zaparciom**. Przyglądamy się diecie dziecka, czy jest w niej wystarczająca ilość płynów i błonnika. Gdzie znaleźć błonnik? Błonnik ma kilka frakcji, wyróżniamy błonnik rozpuszczalny i nierozpuszczalny w wodzie. Oba rodzaje są niezmiernie istotne w prawidłowym formowaniu stolca, dlatego tak ważne jest urozmaicenie diety, aby spożywać różne rodzaje błonnika. **Błonnik** znajduje się we wszystkich owocach i warzywach spożywanych na surowo, a także w gotowanej fasoli, grochu. Orzechy, bakalie, kasze, płatki owsiane to także źródło błonnika. Najważniejsze, aby błonnik pochodził z różnych źródeł, część z owoców, część z pieczywa pełnoziarnistego, część z musli. Aby błonnik spełniał swoją rolę bardzo ważne jest **odpowiednie nawodnienie**. Najlepiej, aby dziecko do picia dostawało wodę, zabronione są soki o działaniu zapierającym takie jak bananowy, marchewkowy. Kaszek ryżowych także należy się wystrzegać wprowadzając na ich miejsce pełnoziarniste. Słodycze są zabronione!!!  
 **Trening defakacji**, czyli nauka robienia kupy. Tu bardzo duże znaczenie ma rola rodziców, ich codzienne starania, aby dziecko usiadło na toaletę i w spokojnej atmosferze oddało stolec. Po każdej udanej próbie zrobienia kupki dobrze jest dziecko nagrodzić na przykład specjalną naklejką lub czymś innym na czym dziecku zależy. Nauka korzystania z toalety jest często długa, wymagająca cierpliwości ze strony rodziców i konsekwencji w nauce pożądanych zachowań. Czasami zamiast na nocnik dziecko woli siadać na dorosłą toaletę, to też może być użyte jako zachęta do nauki robienia kupki „jak dorosły”.  
 Nie należy gwałtownie odstawiać leków jakimi są makrogole, aby stolce były miękkie przez cały czas, zanim dziecko nie osiągnie prawidłowej diety, a jelita nie nauczą się jak prawidłowo działać.  
 Gdy dziecko oddaje codziennie lub co drugi dzień stolec i jest on prawidłowy, wówczas powoli zmniejszamy dawkę leków do ich całkowitego odstawienia. 
 
 {:.R24}
 ## Co jeść?
-Najważniejsza jest **urozmaicona dieta**. Dla ułatwienia poniżej przedstawiam spis produktów o największej zawartości błonnika  
+Najważniejsza jest **urozmaicona dieta**.  
+Dla ułatwienia poniżej przedstawiam spis produktów o największej zawartości błonnika  
 Produkty bardzo bogate w błonnik (zawierające ponad 5 g błonnika na 100g produktu):
 - Mąki pełnoziarniste
 - Orzechy
@@ -59,3 +60,6 @@ Produkty bardzo bogate w błonnik (zawierające ponad 5 g błonnika na 100g prod
 - Korzeń pietruszki
 - Seler
 - Czarna porzeczka
+Nigdy nie ograniczajmy się jednak tylko do nich.
+
+***Artykuł napisany na podstawie wiedzy zawartej w "Gastroenterologia dziecięca" pod redakcją Piotra Albrechta***
