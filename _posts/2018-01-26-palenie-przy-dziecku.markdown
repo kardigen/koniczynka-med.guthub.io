@@ -41,4 +41,4 @@ Jeśli rodzic chce palić i nie wpływać negatywnie na zdrowie Swojego dziecka 
 
 
 
-*Artykuł powstał na podstawie wiedzy zawartej na stronie {mp.pl}[http://www.mp.pl/] *
+*Artykuł powstał na podstawie wiedzy zawartej na stronie [mp.pl](http://www.mp.pl/)*
