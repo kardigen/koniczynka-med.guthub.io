@@ -51,7 +51,7 @@ Dla dziecka o wadze 15 kg dobowe zapotrzebowanie na płyny wynosi 1250ml. Gdyby 
 **Biegunka**
 
 W czasie biegunki najlepiej podawać płyny nawadniające specjalnie do tego przeznaczone takie jak Orsalit, Gastrolit itp. Ich smak może jednak nie przypaść dziecku do gustu, wówczas po prostu podajemy płyny przeznaczone dla dzieci, które dziecko lubi. Zakazane są tylko świeże soki owocowe, zwłaszcza jabłkowy, gdyż nasilają one jeszcze bardziej biegunkę.  
-O ile wzrasta zapotrzebowanie na płyny?
+O ile wzrasta zapotrzebowanie na płyny?  
 Dla dziecka poniżej 2 roku życia powinniśmy podać dodatkowo **50-100ml płynów na każdy wodnisty stolec**.  
 Dzieci od 2 roku życia powinny dostać od **100 do 200ml płynów więcej na każdy wodnisty stolec.**  
 
