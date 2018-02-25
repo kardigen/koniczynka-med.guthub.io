@@ -51,7 +51,7 @@ Osoba chora na odrę jest źródłem zakażenia, czyli zaraża innych od 5 dni p
 {:.R24}
 ## Kto jest najbardziej narażony na chorobę?
 
-Najbardziej narażone są **osoby nie szczepione**. To u nich rozwinie się pełnoobjawowa choroba z możliwymi ciężkimi powikłaniami ze śmiercią włącznie. Osoby chore na odrę są źródłem zarażenia dla innych osób, zwłaszcza tych, które z jakichś względów nie mogą być szczepione, z ciężkimi niedoborami odporności, niemowlęta, dzieci w trakcie leczenia chorób nowotworowych.  
+Najbardziej narażone są **osoby, które nie były szczepione**. To u nich rozwinie się pełnoobjawowa choroba z możliwymi ciężkimi powikłaniami ze śmiercią włącznie. Osoby chore na odrę są źródłem zarażenia dla innych osób, zwłaszcza tych, które z jakichś względów nie mogą być szczepione, z ciężkimi niedoborami odporności, niemowlęta, dzieci w trakcie leczenia chorób nowotworowych.  
 
 {:.R24}
 ## Czy osoba szczepiona może zachorować na odrę?
