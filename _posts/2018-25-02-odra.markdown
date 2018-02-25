@@ -23,7 +23,7 @@ W przebiegu odry wyróżniamy 4 okresy:
 Około 2-3 dnia gorączka narasta jeszcze bardziej, często sięgając 40 stopni, stan ogólny bardzo się pogarsza, dziecko jest **apatyczne**, nie chce jeść, mogą pojawić się objawy **zapalenia oskrzeli lub płuc, duszność**. Dziecko może majaczyć, czasem dochodzi do **drgawek**.
 
 **Okres wysypkowy**: trwa około 3-4 dni, w tym czasie pojawia się charakterystyczna odrowa wysypka. Początkowo na twarzy, następnie reszcie ciała i kończynach na końcu. Najczęściej dopiero w tym czasie następuje rozpoznanie choroby. Wysypka początkowo jest drobna, różowa, następnie pojawiają się **żywoczerwone, zlewające się plamy**. Wysypka ustępując w ciągu kilku dni pozostawia po sobie brunatne przebarwienia na skórze. Miejsca te następnie złuszczają się, często można odrywać grube płaty naskórka.  
-![wysypka1](/png/odrawys.jpg)
+![wysypka1](/png/odrawys.png)
 ![wysypka2](/png/odrawysypka.jpg)
 
 W czasie pojawienia się wysypki **kaszel zmienia się z suchego w wilgotny**, mogą pojawić się **krwawienia z nosa**, a u młodszych dzieci także **wymioty i biegunka**. Małe dzieci często skarżą się na **ból brzucha**. W tym czasie może dojść do **zapalenia wyrostka robaczkowego**.   
