@@ -1,1 +1,62 @@
+---
+layout: post
+title:  "Odra"
+date:   2018-02-25 08:00:00
 
+excerpt: "Odra przez wieki była bardzo rozpowszechnioną, niosącą wiele powikłań chorobą zakaźną. Dzięki szczepieniom ilość zachorowań bardzo spadła, a nawet jeśli ktoś miał pecha i zachorował to kończyło się to na przykrej wysypce i gorszym samopoczuciu. Teraz odra POWRACA. Wszystko za sprawą  ruchów antyszczepionkowych i mody na nieszczepienie. Jeśli nie chcesz szczepić dziecka to bądź świadom na co je narażasz i na co narażasz inne dzieci, które szczepione być nie mogą."
+---
+
+{:.R24}
+## Co wywołuje odrę?
+
+Odrę wywołuje wirus o nazwie Morbillivirus z rodziny wirusów Paramyxoviridae. Wirus jest wydzielany ze śliną, wydzieliną z nosa, moczem i kałem, a także występuje we krwi zarażonej osoby. Wszystko to powoduje, że odra jest bardzo zakaźną chorobą i przed erą powszechnych szczepień była odpowiedzialna za wiele epidemii.
+
+{:.R24}
+## Jakie są objawy?
+
+W przebiegu odry wyróżniamy 4 okresy:  
+**Okres wylęgania**: może trwać od 9 do 11 dni, w tym czasie wirus po wniknięciu do organizmu zaczyna atakować komórki i się namnażać. Może temu towarzyszyć gorsze samopoczucie, gorszy apetyt, ale najczęściej okres wylęgania przebiega bezobjawowo. Osoba zarażona, nie wie, że w jej organizmie przebywa wirus odry.  
+
+**Okres zwiastunowy/ nieżytowy**: trwa zazwyczaj 3-4 dni. Pojawia się **gorączka** powyżej 39 stopni, **katar, suchy, męczący kaszel** oraz **zapalenie spojówek** z towarzyszącym **łzawieniem** i **światłowstrętem**. W tym czasie (w 2-3 dniu) po wewnętrznej stronie policzków pojawiają się charakterystyczne *plamki Koplika-Fiłatowa*, bardzo charakterystyczne dla odry. Są to białe kropeczki z czerwoną obwódką. Znikają jednak bardzo szybko po dobie lub dwóch i można łatwo przegapić ich istnienie.
+![plamkikopika](/png/plamkikoplika.jpg)
+Około 2-3 dnia gorączka narasta jeszcze bardziej, często sięgając 40 stopni, stan ogólny bardzo się pogarsza, dziecko jest **apatyczne**, nie chce jeść, mogą pojawić się objawy **zapalenia oskrzeli lub płuc, duszność**. Dziecko może majaczyć, czasem dochodzi do **drgawek**.
+
+**Okres wysypkowy**: trwa około 3-4 dni, w tym czasie pojawia się charakterystyczna odrowa wysypka. Początkowo na twarzy, następnie reszcie ciała i kończynach na końcu. Najczęściej dopiero w tym czasie następuje rozpoznanie choroby. Wysypka początkowo jest drobna, różowa, następnie pojawiają się **żywoczerwone, zlewające się plamy**. Wysypka ustępując w ciągu kilku dni pozostawia po sobie brunatne przebarwienia na skórze. Miejsca te następnie złuszczają się, często można odrywać grube płaty naskórka.  
+![wysypka1](/png/odrawys.jpg)
+![wysypka2](/png/odrawysypka.jpg)
+W czasie pojawienia się wysypki **kaszel zmienia się z suchego w wilgotny**, mogą pojawić się **krwawienia z nosa**, a u młodszych dzieci także **wymioty i biegunka**. Małe dzieci często skarżą się na **ból brzucha**. W tym czasie może dojść do **zapalenia wyrostka robaczkowego**.   
+
+**Okres zdrowienia**: rozpoczyna się po objęciu przez wysypkę kończyn, gorączka ustępuje, poprawia się samopoczucie. Wysypka w ciągu kilku dni ustępuje, początkowo na nogach, rękach, potem tułowiu, na końcu na twarzy. Pojawia się łuszczenie skóry. Osłabienie po odrze może trwać jeszcze przez kilkanaście dni, a **obniżona odporność** nawet przez kilka tygodni.
+
+{:.R24}
+## Jak długo chory człowiek może zarażać innych?
+
+Osoba chora na odrę jest źródłem zakażenia, czyli zaraża innych od 5 dni przed pojawieniem się wysypki i do 3-4 dni po jej pojawieniu się. Osoba taka zaraża więc najczęściej jeszcze przed rozpoznaniem u niej odry, co jest szczególnie niebezpieczne dla małych dzieci, które zetkną się z taką osobą.
+
+{:.R24}
+## Jakie są powikłania?
+
+- **Zapalenie oskrzeli**  
+- **Ciężkie zapalenie płuc**, które jest najczęstszą przyczyną śmierci wśród dzieci.  
+- **Zapalenie krtani**  
+- **Zapalenie ucha środkowego**  
+- **Ostra skaza małopłytkowa** czyli zaburzenia krzepnięcia krwi z krwotokami  
+- **Odrowe zapalenie mózgu**. Występuje bardzo często. Na 1000 osób chorych na odrę jena będzie miała zapalenie mózgu. U połowy chorych na odrowe zapalenie mózgu dochodzi do nieodwracalnych zmian i upośledzenia czynności układu nerwowego. Około 20 procent chorych na zapalenie mózgu umrze z tego powodu.  
+- **Poprzeczne zapalenie rdzenia kręgowego**  
+- **Zespół Guillaina-Barrego**  
+- **Podostre stwardniające zapalenie istoty białej mózgu**. Ta choroba występuje 1 na 100 tys przypadków odry, ale rozwija się najszybciej dopiero po pół roku od jej przebycia, a nawet 18 lat potem. Im młodsza osoba zachorowała na odrę tym ryzyko rozwoju tej strasznej choroby jest większe. W przebiegu choroby dochodzi do martwicy mózgu, pojawiają się objawy jak przy udarach, drgawki, średni czas przeżycia od pojawienia się objawów wynosi rok.  
+
+{:.R24}
+## Kto jest najbardziej narażony na chorobę?
+
+Najbardziej narażone są **osoby nie szczepione**. To u nich rozwinie się pełnoobjawowa choroba z możliwymi ciężkimi powikłaniami ze śmiercią włącznie. Osoby chore na odrę są źródłem zarażenia dla innych osób, zwłaszcza tych, które z jakichś względów nie mogą być szczepione, z ciężkimi niedoborami odporności, niemowlęta, dzieci w trakcie leczenia chorób nowotworowych.  
+
+{:.R24}
+## Czy osoba szczepiona może zachorować na odrę?
+
+Szczepienie nie daje 100 procentowej pewności, że na odrę się nie zachoruje, ale znacznie to ryzyko zmniejsza. Dodatkowo ryzyko najcięższych powikłań spada prawie do zera. Osoby szczepione najczęściej na odrę nie zachorują, a jeśli mają tego pecha i pojawią się objawy to są one łagodne, bez tych najcięższych. Ryzyko powikłań u osoby szczepionej jest też minimalne. Wszystkie osoby, które zmarły na odrę w ciągu ostatnich kilku lat były **nieszczepione**.
+
+{:.R24}
+## Jak zapobiegać odrze i jej powikłaniom?
+
+Jest tylko jeden sposób: **SZCZEPIENIA**. 
