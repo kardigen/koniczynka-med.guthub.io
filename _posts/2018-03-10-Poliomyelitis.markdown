@@ -68,7 +68,7 @@ Najbardziej narażone są osoby, które **nie zostały zaszczepione**.
 Jest tylko jeden sposób: SZCZEPIENIA. 
 
 W użyciu na świecie są dwa rodzaje szczepionek:  
-**- IPV -** zawiera wirusy inaktywowane i stosowana była u niemowląt,
+**- IPV -** zawiera wirusy inaktywowane i stosowana była u niemowląt,  
 **- OPV -** zawierająca wirusy atenuowane, która była stosowana w Polsce u dzieci doustnie w 6 roku życia jako szczepienie przypominające.  
 Od 2016 roku w Polsce w użyciu są tylko i wyłącznie szczepionki inaktywowane IPV, które nie stanowią zagrożenia dla nieszczepionych dzieci z otoczenia osoby zaszczepionej. Po szczepieniu u dziecka nie dochodzi do pojawienia się wirusa w przewodzie pokarmowym i jego wydalania, więc dziecko zaszczepione IPV nie jest w stanie zarazić innych.
 
