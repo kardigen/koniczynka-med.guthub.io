@@ -9,7 +9,7 @@ excerpt: "W Polsce właściwie już nie występuje, ale nadal czycha na innych k
 Poliomyelitis czyli Choroba Heinego-Medina, nagminne porażenie dziecięce przez wieki była bardzo rozpowszechnioną, niosącą kalectwo chorobą zakaźną. Do dnia dzisiejszego w części państw Afryki sieje spustoszenie wśród dzieci, przyczyniając się do ich zgonu lub ciężkiej niepełnosprawności. Przed powszechnymi szczepieniami w Polsce dochodziło do epidemii. Największe miały miejsce w 1951 i 1958 roku (ponad 6tys zachorowań).  
 Dzięki szczepieniom ochronnym prowadzonym w wielu krajach udało się ograniczyć liczbę zachorowań o 99%. Dzięki wieloletnim masowym szczepieniom, ryzyko zachorowania na poliomyelitis w Polsce w chwili obecnej jest bliskie zeru. Ale wszystko się zmieni za sprawą ruchów antyszczepionkowych.  
 
-![polio1](/png/polio1.jpg)
+![polio1](/png/Polio1.jpg)
 
 Nadal wirus polio rozprzestrzenia się na terenach Azji i Afryki. Wystarczy chwila, aby został ponownie zawleczony do Europy. W momencie, gdy większość ludzi jest zaszczepiona, epidemia nam nie grozi, ale niezaszczepione dzieci mogą zachorować. I to nie tylko te, których rodzice świadomie nie zaszczepili, ale również takie, które nie mogą być zaszczepione z innych przyczyn. **Im więcej niezaszczepionych, tym większe ryzyko epidemii.**
 
