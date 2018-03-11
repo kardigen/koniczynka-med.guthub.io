@@ -21,6 +21,14 @@
     margin: auto;
 }
 
+.display-inline {
+    text-align: center;
+}
+
+.display-inline img {
+    display: inline;    
+}
+
 
 @media (min-width: 1200px) {
     #welcome {

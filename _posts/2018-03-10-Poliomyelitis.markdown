@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poliomyelitis, czyli choroba Heinego-Medina, nagminne porażenie dziecięce"
-date:   2018-02-25 08:00:00
+date:   2018-03-10 08:00:00
 
 excerpt: "W Polsce właściwie już nie występuje, ale nadal czycha na innych kontynentach, wywołując epidemie i doprowadzając do trwałego kalectwa setki dzieci."
 ---
@@ -33,8 +33,11 @@ Wyróżniamy kilka postaci Poliomyelitis.
 -**Postać mózgowa** przebiega z zaburzeniami świadomości, utratą przytomności, funkcje mózgu zostają zatrzymane, często kończy się śmiercią.  
 
 ![polio2](/png/polio2.jpg)
-![polio6](/png/polio6.jpg)
-![polio4](/png/polio4.jpg)
+
+{:.display-inline}
+![polio6](/png/polio6.jpg) ![polio4](/png/polio4.jpg)
+
+
 
 {:.R24}
 ## Jak długo chory człowiek może zarażać innych?
