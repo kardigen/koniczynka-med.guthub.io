@@ -6,10 +6,6 @@ date:   2018-03-28 08:00:00
 excerpt: "Wirusowe zapalenie krtani jest dosyć częstą chorobą atakującą dzieci. Najczęściej przebiega łagodnie i wymaga tylko leków w inhalacjach przeprowadzanych w domu. Czasami obrzęk krtani jest jednak tak duży, że dziecko wymaga hospitalizacji i leczenia w szpitalu. Jak rozpoznać zapalenie krtani i jakie leki stosować dowiesz sie w tym artykule."
 ---
 
- 
-
-Zapalenie krtani
-
 Zapalenie krtani jest częstą chorobą wirusową wywołaną przez wiele rodzajów wirusów. Najczęściej wywołują ją wirusy (wirus paragrypy, wirus grypy typu A lub B, adenowirus, wirus RS, metapneumowirus). Wirusy wnikają w błonę śluzową krtani i uszkadzają ją. Organizm broniąc się  doprowadza do obrzęku ścian krtani. Krtań u dzieci jest naturalnie wąska i w momencie obrzęku jej światło, czyli środek staje się jeszcze mniejszy. Przepływ powietrza przez krtań do płuc zostaje utrudniony, a w najcięższych przypadkach w ogóle niemożliwy i dziecko zaczyna się dusić. 
 
 {:.R24}
@@ -31,6 +27,7 @@ Zapalenie krtani **atakuje nagle**, nie da się go przewidzieć. Najczęściej p
 -Przy znacznych zaburzeniach oddychania utrata przytomności
 
 ![przepona](/png/krtan.png)
+
 ![zebra](/png/dusznosc.jpg)
 
 {:.R24}
