@@ -19,12 +19,12 @@ Najczęściej chorują dzieci w wieku od 6 miesięcy do 5 lat. Najwięcej zachor
 Zapalenie krtani **atakuje nagle**, nie da się go przewidzieć. Najczęściej pierwszy atak jest **w nocy lub nad ranem**. Dziecko zaczyna kaszleć suchym, przypominającym szczekanie psa kaszlem. Następnie słychać przy wdechu świst zwany **stridorem**. Niekiedy głośny przepływ powietrza słychać w czasie wdechu i wydechu. Częstość oddechów ulega przyspieszeniu, młodsze dzieci uruchamiają dodatkowe mięśnie oddechowe. Widać to po wciąganiu przepony i międzyżebrzy. Są to widoczne pomiędzy żebrami oraz w miejscu przebiegu przepony, czyli tam, gdzie kończy się klatka piersiowa, zapadania się skóry przy każdym wdechu.  
 
 **Objawy:**  
--Szczekający kaszel
--Przyspieszenie oddechów
--Świst wdechowy
--Zaciąganie przepony i międzyżebrzy u młodszych dzieci
--Przy znacznych zaburzeniach oddychania sinica skóry
--Przy znacznych zaburzeniach oddychania utrata przytomności
+-Szczekający kaszel  
+-Przyspieszenie oddechów  
+-Świst wdechowy  
+-Zaciąganie przepony i międzyżebrzy u młodszych dzieci  
+-Przy znacznych zaburzeniach oddychania sinica skóry  
+-Przy znacznych zaburzeniach oddychania utrata przytomności  
 
 ![przepona](/png/krtan.png)
 
