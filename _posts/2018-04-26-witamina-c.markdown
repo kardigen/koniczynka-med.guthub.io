@@ -18,7 +18,6 @@ Najpierw poznajmy zjawisko stereoizomerii, bo na tym zjawisku opierają swoją n
 **Stereoizomery** są to cząsteczki, które składają się z tych samych atomów połączonych ze sobą w ten sam sposób, ale będące swoimi lustrzanymi odbiciami. O ile skład atomowy jest ten sam, to przez to, że mają inną formę w przestrzeni, mogą inaczej działać. Rozróżniamy stereoizomery R i S, kiedyś nazywane L -od lewy i D- od prawy. Niektórzy używają niewłaściwej nazwy L- izomer lewoskrętny i D- izomer prawoskrętny. Nazewnictwo to jest niepoprawne, ponieważ słowo skrętny odnosi się do innego zjawiska, jakim jest skręcalność optyczna.
 
 ![stereoizomery](/png/stereoizomery.png)
-
 Kwas askorbinowy posiada w swojej cząsteczce dwie grupy atomów, które mogą się inaczej ułożyć w przestrzeni. Posiada cztery stereoizomery. Tylko jeden z nich ma właściwości biologiczne nam potrzebne i potocznie zwany jest witaminą c, jest to **kwas L askorbinowy (R,S)**. Żadna apteka nie sprzedaje pozostałych stereoizomerów pod nazwą witaminy, ani żadna fabryka nie produkuje innych stereoizomerów nazywając je witaminą. Na rynku nie ma dostępnych innych rodzajów witaminy C, ponieważ zwyczajnie one nie istnieją i nie ma co przepłacać, za nazwę na pudełku.
 
 ![wit c](/png/witcizomery.png)
