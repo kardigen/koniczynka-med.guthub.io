@@ -38,11 +38,10 @@ Aby rozpoznać zakażenie owsikami musimy znaleźć żywe owsiki w okolicy odbyt
 
 Badanie mikroskopowe plastrów wykonujemy **co najmniej 3 razy**. To znaczy wykonujemy je codziennie przez trzy kolejne dni, naklejając na skórę po nocy przed umyciem się.  
 Badanie mikroskopowe stolca wykonujemy z **co najmniej 3 próbek kału**. Muszą to być co najmniej 3 stolce, które dziecko zrobi, a nie 3 części tego samego stolca, więc czekają nas 3  wizyty w laboratorium.  
-Możemy próbować zaobserwować samice owsików w okolicy odbytu w nocy. Po położeniu się spać dziecka w godzinach późno nocnych lub bardzo wczesno porannych delikatnie rozchylamy pośladki dziecka i obserwujemy okolicę odbytu. Owsiki widać gołym okiem jako około 1 centymetrowe grubsze nitki wychodzące z odbytu, często ruszające się. Nie jest to widok dla osób wrażliwych. Czasami widocznym owsikom towarzyszy biało przeźroczysta galaretowata substancja rozłożona wzdłuż szpary pośladkowej, która jest pozostałością po martwych owsikach.
+Możemy próbować **zaobserwować samice owsików w okolicy odbytu** w nocy. Po położeniu się spać dziecka w godzinach późno nocnych lub bardzo wczesno porannych delikatnie rozchylamy pośladki dziecka i obserwujemy okolicę odbytu. Owsiki widać gołym okiem jako około 1 centymetrowe grubsze nitki wychodzące z odbytu, często ruszające się. Nie jest to widok dla osób wrażliwych. Czasami widocznym owsikom towarzyszy biało przeźroczysta galaretowata substancja rozłożona wzdłuż szpary pośladkowej, która jest pozostałością po martwych owsikach.
 
-![owsiki1](/png/ows.jpg)
 ![owsiki2](/png/owsiki.jpg)
-![owsiki3](/png/owsikpow.jpg)
+![owsiki3](/png/owsikpow.png)
 
 {:.R24}
 ## Dziecko ma owsiki!! Co dalej?
