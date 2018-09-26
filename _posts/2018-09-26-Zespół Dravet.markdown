@@ -37,6 +37,9 @@ Przekazanie informacji dalej do sieci neuronowej powodujące odpowiedź organizm
 Po fazie pobudzenia kanały sodowe zamykają się, jony sodu są wypompowywane na zewnątrz komórki i neuron przechodzi w stan odpoczynku.  
 ![neuron](/png/neuronpowrotdostanuspoczynku.png)
 
+{:.R24}
+## Jak to jest w Zespole Dravet
+
 W zespole Dravet mutacja w genie powoduje nieprawidłową budowę kanałów sodowych. Kanały sodowe nie zamykają się do końca i jony sodu ciągle napływają do komórki nerwowej nie pozwalając przejść jej w stan odpoczynku. 
 
 W zależności od tego ile kanałów sodowych (ile drzwi do komórki) jest popsutych komórka albo cały czas jest pobudzona i ciągle przekazuje informację (ciągłe wyładowania elektryczne w mózgu), albo jest bardzo wrażliwa na dodatkowe bodźce (w zespole Dravet jest to podwyższenie temperatury ciała, infekcja). Niewielka gorączka powoduje pełne włączenie neuronu, gdzie u zdrowego niemowlęcia jest on nadal w stanie odpoczynku.  
@@ -52,7 +55,7 @@ Pierwsze objawy źle działających komórek nerwowych pojawiają się między 3
 
  - **Wzrost temperatury ciała**  
 Może być spowodowany infekcją (nawet katarem), szczepieniem, kąpielą, zbyt ciepłym ubraniem w słoneczny dzień.
-Właśnie związek szczepienia z podwyższeniem temperatury ciała wykorzystują ruchy antyszczepionkowe wmawiając nam, że to szczepionka wywołała chorobę. Wmawiają nam, że gdybyśmy nie zaszczepili to dziecko byłoby zdrowe, co jest nieprawdą. Niemowlę urodziło się z mutacją i zbyt pobudzonymi komórkami nerwowymi. 
+Właśnie związek szczepienia z podwyższeniem temperatury ciała wykorzystują ruchy antyszczepionkowe wmawiając nam, że to szczepionka wywołała chorobę. Wmawiają nam, że gdybyśmy nie zaszczepili to dziecko byłoby zdrowe, co jest nieprawdą. Niemowlę urodziło się z mutacją i zbyt pobudzonymi komórkami nerwowymi. Szczepienie nie ma z tym nic wspólnego. Objawy i tak by się pojawiły przy pierwszym wzroście temperatury np w lato.
  - **Światło, nagłe rozbłyski, miganie ekranu komputera lub telewizora**  
  - **Brak snu**
 
