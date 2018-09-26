@@ -39,8 +39,8 @@ Po fazie pobudzenia kanały sodowe zamykają się, jony sodu są wypompowywane n
 
 W zespole Dravet mutacja w genie powoduje nieprawidłową budowę kanałów sodowych. Kanały sodowe nie zamykają się do końca i jony sodu ciągle napływają do komórki nerwowej nie pozwalając przejść jej w stan odpoczynku. 
 
-W zależności od tego ile kanałów sodowych (ile drzwi do komórki) jest popsutych komórka albo cały czas jest pobudzona i ciągle przekazuje informację, albo jest bardzo wrażliwa na dodatkowe bodźce (w zespole Dravet jest to podwyższenie temperatury ciała, infekcja). Niewielka gorączka powoduje pełne włączenie neuronu, gdzie u zdrowego niemowlęcia jest on nadal w stanie odpoczynku.  
-Takie cały czas pobudzone komórki nerwowe w mózgu powodują napady padaczkowe oraz to, że niemowlę ma trudności z dalszym prawidłowym rozwojem. Nie uczy się lub późno uczy się siadać, komunikować z otoczeniem.
+W zależności od tego ile kanałów sodowych (ile drzwi do komórki) jest popsutych komórka albo cały czas jest pobudzona i ciągle przekazuje informację (ciągłe wyładowania elektryczne w mózgu), albo jest bardzo wrażliwa na dodatkowe bodźce (w zespole Dravet jest to podwyższenie temperatury ciała, infekcja). Niewielka gorączka powoduje pełne włączenie neuronu, gdzie u zdrowego niemowlęcia jest on nadal w stanie odpoczynku.  
+Takie cały czas pobudzone komórki nerwowe w mózgu powodują napady padaczkowe oraz to, że niemowlę ma trudności z dalszym prawidłowym rozwojem. Nie uczy się lub późno uczy się siadać, komunikować z otoczeniem. Ciągłe wyładowania komórek nerwowych możemy porównać do huraganu lub burzy. W takich warunkach nie można postawić domu, bo co zbudujemy zostanie zniszczone. Tak samo jest w mózgu, ciągłe wyładowania to taki właśnie huragan nie pozwalający zbudować nowych połączeń w mózgu.
 
 {:.R24}
 ##  Pierwsze objawy choroby
