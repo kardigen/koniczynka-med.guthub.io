@@ -24,7 +24,7 @@ W mózgu mamy ogromną ilość neuronów, które są ze sobą połączone w siec
 W sytuacji gdy neurony są pobudzane za mocno, nie odpoczywają- pojawiają się napady padaczkowe. Każdy duży napad padaczkowy powoduje uszkodzenie mózgu (neurony zapominają czego się nauczyły i muszą zaczynać od początku).
 
 Neurony przekazują sobie informację i pobudzają się dzięki pracy wielu kanałów jonowych i pomp jonowych, które można nazwać drzwiami w błonie komórkowej. Przez nie jony wchodzą lub wychodzą z komórki powodując jej pobudzenie lub uśpienie. Te drzwi albo są zamknięte albo otwarte.  
-neuron w stanie spoczynku  
+Neuron w stanie spoczynku  
 Jony sodu są wyrzucane z komórki nerwowej, aby zachować jej ujemny potencjał elektryczny przez pompę sodowo-potasową
 ![neuron2](/png/neuronwstaniespoczynku.jpg)
 Neuron pobudzony został przez na przykład światło, dźwięk  
