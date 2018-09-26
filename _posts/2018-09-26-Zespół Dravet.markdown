@@ -1,4 +1,8 @@
+
 ![neuron](/png/neuron powrót do stanu spoczynku.png)
-![neuron](/png/neuron w stanie spoczynku.jpg)
-![neuron](/png/neuron wyładowanie.png)
-![neuron](/png/neuron pobudzenie.jpg)
+
+![neuron2](/png/neuron w stanie spoczynku.jpg)
+
+![neuron3](/png/neuron wyładowanie.png)
+
+![neuron4](/png/neuron pobudzenie.jpg)
