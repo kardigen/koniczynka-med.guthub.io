@@ -24,17 +24,17 @@ W mózgu mamy ogromną ilość neuronów, które są ze sobą połączone w siec
 W sytuacji gdy neurony są pobudzane za mocno, nie odpoczywają- pojawiają się napady padaczkowe. Każdy duży napad padaczkowy powoduje uszkodzenie mózgu (neurony zapominają czego się nauczyły i muszą zaczynać od początku).
 
 Neurony przekazują sobie informację i pobudzają się dzięki pracy wielu kanałów jonowych i pomp jonowych, które można nazwać drzwiami w błonie komórkowej. Przez nie jony wchodzą lub wychodzą z komórki powodując jej pobudzenie lub uśpienie. Te drzwi albo są zamknięte albo otwarte.  
-Neuron w stanie spoczynku  
+**1.Neuron w stanie spoczynku**  
 Jony sodu są wyrzucane z komórki nerwowej, aby zachować jej ujemny potencjał elektryczny przez pompę sodowo-potasową
 ![neuron2](/png/neuronwstaniespoczynku.jpg)
-Neuron pobudzony został przez na przykład światło, dźwięk  
+**2.Neuron pobudzony został przez na przykład światło, dźwięk**  
 Jony sodu napływają do komórki nerwowej przez kanały sodowe
 ![neuron4](/png/neuronpobudzenie.jpg)
-Po osiągnięciu odpowiedniej ilości jonów sodu w komórce nerwowej następuje jej pobudzenie.  
+**3.Po osiągnięciu odpowiedniej ilości jonów sodu w komórce nerwowej następuje jej pobudzenie.**  
 Przekazanie informacji dalej do sieci neuronowej powodujące odpowiedź organizmu na przykład ruch lub po prostu nauczenie się czegoś  
 ![neuron3](/png/neuronwyladowanie.png)
+**4.Zapamiętanie i odpoczynek neuronu, aby dalej prawidłowo funkcjonować**  
 Po fazie pobudzenia kanały sodowe zamykają się, jony sodu są wypompowywane na zewnątrz komórki i neuron przechodzi w stan odpoczynku.  
-Zapamiętanie i odpoczynek neuronu, aby dalej prawidłowo funkcjonować  
 ![neuron](/png/neuronpowrotdostanuspoczynku.png)
 
 W zespole Dravet mutacja w genie powoduje nieprawidłową budowę kanałów sodowych. Kanały sodowe nie zamykają się do końca i jony sodu ciągle napływają do komórki nerwowej nie pozwalając przejść jej w stan odpoczynku. 
