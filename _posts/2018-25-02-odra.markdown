@@ -62,3 +62,18 @@ Szczepienie nie daje 100 procentowej pewności, że na odrę się nie zachoruje,
 ## Jak zapobiegać odrze i jej powikłaniom?
 
 Jest tylko jeden sposób: **SZCZEPIENIA**. 
+
+{:.R24}
+## Jakie jest postępowanie w przypadku zakażenia odrą?
+
+Przede wszystkim należy zgłosić się do lekarza, gdzie zostanie przeprowadzone badanie potwierdzające obecność wirusa odry (w zależności od miejscowości mogą to być różne miejsca: lekarz POZ, Stacja Sanitarno-epidemiologiczna, izba przyjęć oddziału chorób zakażnych). Małe dzieci są na ogół od razu hospitalizowane, aby jak najszybciej wykryć pierwsze oznaki ewentualnych powikłań.
+
+**Jestem chory na odrę, ale czuję się dobrze, co robić?**  
+
+ - Przede wszystkim, nie spotykać się z nikim, kto nie był zaszczepiony dwiema dawkami szczepionki na odrę, nie wychodzić z domu. **Odra jest bardziej zaraźliwa niż ospa wietrzna**  
+ - Odpoczynek przede wszystkim, aby organizm swoje wszystkie siły zużywał na walkę z wirusem  
+ - Dużo pić, dbać o dobre nawodnienie organizmu  
+ - Jeść lekkostrawne, bogate w witaminy posiłki  
+ - W przypadku wysokiej gorączki przyjąć leki przeciwgorączkowe i skontaktować się z lekarzem, gdyż może to być pierwszy objaw powikłań na przykład zapalenia płuc  
+ - W przypadku uczucia bólu stóp, mrowienia, drętwienia rąk, nóg lub twarzy, nieprawidłowego czucia w obrębie kończyn lub spadku siły w rękach, uczucia "ciężkich powiek" natychmiastowe zgłoszenie się do lekarza lub szpitala, ponieważ są to objawy **zespołu Guillaina-Barrego**, który może zakończyć się dużymi problemami z oddychaniem i wymaga leczenia szpitalnego   
+ 
